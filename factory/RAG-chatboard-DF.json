@@ -1,0 +1,9 @@
+{
+	"name": "RAG-chatboard-DF",
+	"location": "swedencentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "045b386a-177b-4a73-bd11-f47611fcfb4a",
+		"tenantId": "e7bbaca6-afdf-486c-8556-7f763fd4b3e4"
+	}
+}
